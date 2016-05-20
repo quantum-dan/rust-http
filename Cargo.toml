@@ -1,0 +1,6 @@
+[package]
+name = "rhttp"
+version = "0.1.0"
+authors = ["qpython1000100 <dphilippus123@gmail.com>"]
+
+[dependencies]
